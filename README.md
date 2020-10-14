@@ -6,7 +6,7 @@ Here are the steps to contribute to this repo:
 
 Fork this repository
 
-Clone the repository to your local git clone https://github.com/<YOUR-USERNAME>/Stop-Words-List.git
+Clone the repository to your local git clone https://github.com/<YOUR-USERNAME>/HacktoberFestPythont.git
 
 Create a python file with this format: <Yourname>_<Issue name>
 
